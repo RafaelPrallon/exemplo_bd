@@ -7,10 +7,6 @@ class ShopsController < ApplicationController
   end
 
   def list_method_2
-    @shops = Shop.joins(:address)
-  end
-
-  def list_method_3
     @shops = Shop.special_list
   end
 end
