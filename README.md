@@ -1,0 +1,1 @@
+Aplicação de exemplo para a palestra introdutória sobre Banco de Dados durante o Meetup dp Ruby on Rio do dia 04/06/2019
